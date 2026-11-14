@@ -1,9 +1,9 @@
 {
   "title": "Trustworthy AI for Low-Carbon Geopolymers: Research Artifact (screening ledger, coded corpus, keyword classifier, audit tables)",
   "upload_type": "dataset",
-  "version": "v1.2",
-  "publication_date": "2026-11-12",
-  "description": "<p>Research artifact for the systematic review <em>From Property Prediction to Clean-Technology Deployment: A Systematic Review and Roadmap for Trustworthy AI in Low-Carbon Geopolymer Development</em> (revised manuscript submitted to Clean Technologies and Environmental Policy).</p><p>Contents: screening ledger with per-record decision codes; the frozen core corpus (729 records; 728 after one post-freeze removal; 669 unique primary studies with 59 duplicate reports flagged); duplicate-audit evidence; the deterministic keyword classifier with its lexicon and per-record output; the physics-integration audit (32 studies) and carbon/LCA audit (77 studies); blind-recode worksheets; full-text extraction files; machine-readable supplementary tables; protocol and search log; and the revised submission.</p><p>v1.2 aligns the artifact with the revised manuscript and includes the amendment of 12 Nov 2026, which flagged seven further duplicate reports (analysis set 669 studies, previously 676); AMENDMENT_2026-11-12.md lists every affected number. See CHANGELOG.md for changes since v1.1 and README.md for known gaps.</p>",
+  "version": "v1.2.1",
+  "publication_date": "2026-11-14",
+  "description": "<p>Research artifact for the systematic review <em>From Property Prediction to Clean-Technology Deployment: A Systematic Review and Roadmap for Trustworthy AI in Low-Carbon Geopolymer Development</em> (revised manuscript submitted to Clean Technologies and Environmental Policy).</p><p>Contents: screening ledger with per-record decision codes; the frozen core corpus (729 records; 728 after one post-freeze removal; 669 unique primary studies with 59 duplicate reports flagged); duplicate-audit evidence; the deterministic keyword classifier with its lexicon and per-record output; the physics-integration audit (32 studies) and carbon/LCA audit (77 studies); blind-recode worksheets; full-text extraction files; machine-readable supplementary tables; protocol and search log; and the revised submission.</p><p>v1.2.1 corrects the DOI and repository address cited inside the files; data, code and results are identical to v1.2.</p><p>v1.2 aligns the artifact with the revised manuscript and includes the amendment of 12 Nov 2026, which flagged seven further duplicate reports (analysis set 669 studies, previously 676); AMENDMENT_2026-11-12.md lists every affected number. See CHANGELOG.md for changes since v1.1 and README.md for known gaps.</p>",
   "creators": [
     {
       "name": "Nageshwaran, Vinoth",
@@ -40,6 +40,12 @@
       "relation": "isSupplementTo",
       "resource_type": "software",
       "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.22325994",
+      "relation": "isNewVersionOf",
+      "resource_type": "dataset",
+      "scheme": "doi"
     }
   ]
 }

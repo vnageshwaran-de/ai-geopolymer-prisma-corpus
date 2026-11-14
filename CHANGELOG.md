@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.1 — 2026-11-14
+
+DOI and address corrections only; no data, code or results changed.
+- From v1.2 the archive is published from the repository `ai-geopolymer-prisma-corpus`, under a new Zenodo record: all versions 10.5281/zenodo.24222980, v1.2 10.5281/zenodo.24222981. Versions 1.0 and 1.1 remain under the earlier record 10.5281/zenodo.22325910.
+- The manuscript (data availability statement), the Supplementary Materials, `README.md` and `CITATION.cff` now cite 10.5281/zenodo.24222980. In v1.2 they still cited the earlier record.
+
 ## v1.2 — 2026-11-12
 
 Aligned with the revised manuscript, including the amendment of 12 Nov 2026 (seven further duplicate reports; analysis set 676 → 669).
@@ -19,7 +25,7 @@ Changed
 - `extraction_master.csv`: the code columns now hold the keyword-classifier codes, with `coding_depth`, `classification_method`, `needs_human_verification` and `status` added. Bibliographic fields, `duplicate_of` and `eligibility_concern` are unchanged. The v1.1 file is in `legacy_v1.1/`.
 - `physics_type_verification.csv`: now the 32-study audit of Table S11 (v1.1 had 28 rows). Columns are now `doi, year, venue, title, flag, audit_outcome, note`.
 - `carbon_lca_audit.csv`: now the 77-study audit of Table S12 (v1.1 had 76 rows); three rows recoded and one study added, as described in the table note. Columns are now `doi, year, venue, title, primary_treatment, quantified, carbon_in_optimization`.
-- `manuscript/`: replaced with the revised submission (four tables, five figures), including the response to the editor. Data availability now cites the all-versions DOI 10.5281/zenodo.22325910. In the Supplementary Materials a leftover table from the earlier coding (headed n = 677) was removed from Table S9, and the pointer for Table S4 was reworded.
+- `manuscript/`: replaced with the revised submission (four tables, five figures), including the response to the editor. Data availability now cites an all-versions DOI (corrected in v1.2.1 to 10.5281/zenodo.24222980). In the Supplementary Materials a leftover table from the earlier coding (headed n = 677) was removed from Table S9, and the pointer for Table S4 was reworded.
 - `README.md`: rewritten; author list updated.
 
 Revision after pre-submission review (13 Nov 2026)

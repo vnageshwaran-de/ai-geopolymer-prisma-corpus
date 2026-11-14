@@ -82,7 +82,7 @@ Everything in this archive uses the amended analysis set (**669 unique studies; 
 
 | Item | Change |
 |---|---|
-| Data availability statement; Supplementary Materials, first paragraph | Zenodo DOI changed from the v1.1 record (10.5281/zenodo.22325994) to the all-versions DOI (10.5281/zenodo.22325910) |
+| Data availability statement; Supplementary Materials, first paragraph | Zenodo DOI changed from the v1.1 record (10.5281/zenodo.22325994) to the all-versions DOI of the current archive (10.5281/zenodo.24222980) |
 | Supplementary Materials, Table S9 | A second table headed "n = 677 / n = 671 (eligible)", left over from the earlier coding and contradicted by the text beside it, was removed |
 | Supplementary Materials, pointers | Table S4 pointer reworded to "taxonomy candidates, selection and coding rules"; `stage3/springerlink_sample_screen.md` corrected to `springerlink_sample_screen.md` |
 | Response to the Editor | 676 → 669 and external validation 4.7% → 4.6% in the authors' replies; a sentence on the seven further duplicates added under Corrections; "the 76 environmentally audited studies" corrected to 77 to match the manuscript. The editor's quoted comment is left as written |

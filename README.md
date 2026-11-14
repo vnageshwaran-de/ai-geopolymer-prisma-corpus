@@ -1,4 +1,4 @@
-# AI–Geopolymer PRISMA Corpus — Research Artifact (v1.2)
+# AI–Geopolymer PRISMA Corpus — Research Artifact (v1.2.1)
 
 Open research artifact accompanying:
 
@@ -86,6 +86,6 @@ The Scopus export is not redistributed here because Scopus abstracts and index k
 
 ## License and citation
 
-Data and documentation: CC BY 4.0. Code: MIT. Please cite the paper and this archive. The DOI [10.5281/zenodo.22325910](https://doi.org/10.5281/zenodo.22325910) always resolves to the latest version; v1.1 is [10.5281/zenodo.22325994](https://doi.org/10.5281/zenodo.22325994).
+Data and documentation: CC BY 4.0. Code: MIT. Please cite the paper and this archive. The DOI [10.5281/zenodo.24222980](https://doi.org/10.5281/zenodo.24222980) always resolves to the latest version of this archive; version 1.2 is [10.5281/zenodo.24222981](https://doi.org/10.5281/zenodo.24222981). Versions 1.0 and 1.1 were archived from an earlier repository under a separate Zenodo record ([10.5281/zenodo.22325910](https://doi.org/10.5281/zenodo.22325910)) and are superseded by this one.
 
 Maintained at https://github.com/vnageshwaran-de/ai-geopolymer-prisma-corpus.
