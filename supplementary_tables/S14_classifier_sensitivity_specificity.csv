@@ -1,0 +1,7 @@
+Quantity,"Classifier, corpus (%)","Classifier, sample (k/67)","Human, sample (k/67)",Both (k),Sensitivity,Specificity,"Human-coded share, % [95% CI]"
+Prediction or optimization family,94.5,66/67,66/67,65,0.98,0.00,98.5 [92.0–99.7]
+Design vocabulary,16.1,11/67,13/67,4,0.31,0.87,19.4 [11.7–30.4]
+Explainability,39.3,26/67,32/67,24,0.75,0.94,47.8 [36.3–59.5]
+Uncertainty quantification,1.8,2/67,3/67,2,0.67,1.00,4.5 [1.5–12.4]
+External validation,4.6,4/67,3/67,1,0.33,0.95,4.5 [1.5–12.4]
+No environmental variable,40.8,35/67,46/67,30,0.65,0.76,68.7 [56.8–78.5]

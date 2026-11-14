@@ -1,0 +1,15 @@
+Step,n,Derivation
+Records identified (databases),"1,214",Scopus Family A 774 + ScienceDirect 320 + Crossref 100 + SpringerLink 20 (per-source counts post internal dedup)
+"IEEE Xplore, excluded at source",13,all conference papers (EC4)
+Duplicate records removed before screening,320,supplementary-source records matched to Scopus by DOI/normalized title
+Unique records screened,894,774 Scopus + 120 supplementary-only
+Removed at title–abstract,70,3 duplicates found during screening + EC1: 4 + EC2: 15 + EC4: 14 + EC5: 31 + EC7 venue-quality: 3
+Retained after title–abstract,824,894 − 70
+Routed to Context Corpus,58,reviews and adjacent evidence (not in synthesis counts)
+To eligibility,766,824 − 58
+Full-text eligibility decisions,49,"12 included + 37 excluded (EC2: 6, EC3: 28, EC7: 3)"
+"Records included (Core Corpus, frozen 21 Aug 2026)",729,766 − 37 (= 717 direct + 12 full-text inclusions)
+"Removed after freeze (amendment, 12 Nov 2026)",1,bibliometric review identified when its abstract was retrieved (10.1016/j.marenvres.2026.108214); moved to Context Corpus (now 59); Core Corpus 728 records
+Duplicate reports identified in synthesis audit,59,flagged in extraction_master.csv (duplicate_of); evidence in duplicate_audit.csv. 52 identified in the 31 Aug 2026 audit and 7 on 12 Nov 2026 (same DOI as a Scopus record already in the corpus)
+Unique primary studies (analysis set),669,728 − 59
+Total exclusions (both stages),104,EC1 4 · EC2 21 · EC3 28 · EC4 14 · EC5 31 · EC7 6

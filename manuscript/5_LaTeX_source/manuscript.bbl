@@ -1,0 +1,261 @@
+\begin{thebibliography}{42}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\eprint}[2][]{\url{#2}}
+ \bibcommenthead
+
+\bibitem[{Al-Fakih et~al.(2024)Al-Fakih, Al-wajih, Saleh, and
+  Muhit}]{alfakih2024}
+Al-Fakih A, Al-wajih E, Saleh R, et~al (2024) Ensemble machine learning models
+  for predicting the {CO2} footprint of {GGBFS-based} geopolymer concrete.
+  Journal of Cleaner Production 472:143463. \doi{10.1016/j.jclepro.2024.143463}
+
+\bibitem[{Alaneme et~al.(2023)Alaneme, Olonade, and Esenogho}]{alaneme2023}
+Alaneme G, Olonade K, Esenogho E (2023) Critical review on the application of
+  artificial intelligence techniques in the production of geopolymer-concrete.
+  SN Applied Sciences 5:217. \doi{10.1007/s42452-023-05447-z}
+
+\bibitem[{Ali et~al.(2024)Ali, El~Ouni, Qureshi, Islam, Mahmood, Ahmed, and
+  Ajwad}]{ali2024}
+Ali T, El~Ouni M, Qureshi M, et~al (2024) A systematic literature review of
+  {AI-based} prediction methods for self-compacting, geopolymer, and other
+  eco-friendly concrete types: {Advancing} sustainable concrete. Construction
+  and Building Materials 440:137370. \doi{10.1016/j.conbuildmat.2024.137370}
+
+\bibitem[{Ara{\'u}jo(2025)}]{araujo2025}
+Ara{\'u}jo O (2025) Pragmatic review articles on clean technologies and
+  environmental policy. Clean Technologies and Environmental Policy
+  27:451--452. \doi{10.1007/s10098-025-03144-6}
+
+\bibitem[{{ASTM International}(2023)}]{astmc1157}
+{ASTM International} (2023) {ASTM} {C1157/C1157M} standard performance
+  specification for hydraulic cement. ASTM International, West Conshohocken, PA
+
+\bibitem[{Bhat et~al.(2022)Bhat, Han, Akshay~Ponduru, Reka, Huang, Sant, and
+  Kumar}]{bhat2022}
+Bhat R, Han T, Akshay~Ponduru S, et~al (2022) Predicting compressive strength
+  of alkali-activated systems based on the network topology and phase
+  assemblages using tree-structure computing algorithms. Construction and
+  Building Materials 336:127557. \doi{10.1016/j.conbuildmat.2022.127557}
+
+\bibitem[{{BSI}(2016)}]{pas8820}
+{BSI} (2016) {PAS} 8820:2016 construction materials -- alkali-activated
+  cementitious material and concrete -- specification. British Standards
+  Institution, London
+
+\bibitem[{{CEN}(2019)}]{en15804}
+{CEN} (2019) {EN} 15804:2012+{A2}:2019 sustainability of construction works --
+  environmental product declarations -- core rules for the product category of
+  construction products. European Committee for Standardization, Brussels
+
+\bibitem[{Chan and Zhang(2026)}]{chan2026}
+Chan C, Zhang M (2026) Data-driven prediction of strength development of
+  alkali-activated concrete with uncertainty quantification using interpretable
+  amortised {Gaussian} process. Developments in the Built Environment
+  27:100971. \doi{10.1016/j.dibe.2026.100971}
+
+\bibitem[{Gu et~al.(2025)Gu, Li, Zhang, Yang, Nehdi, and Zhang}]{gu2025}
+Gu X, Li Z, Zhang Y, et~al (2025) Advancing coal gangue-based alkali-activated
+  materials development through innovative data augmentation and machine
+  learning strategies. Archives of Civil and Mechanical Engineering 25:129.
+  \doi{10.1007/s43452-025-01190-x}
+
+\bibitem[{Guo et~al.(2024)Guo, Meng, and Bao}]{guo2024}
+Guo P, Meng W, Bao Y (2024) Knowledge-guided data-driven design of
+  ultra-high-performance geopolymer ({UHPG}). Cement and Concrete Composites
+  153:105723. \doi{10.1016/j.cemconcomp.2024.105723}
+
+\bibitem[{Guo et~al.(2026)Guo, Gao, Ma, and Liu}]{guo2026}
+Guo Y, Gao D, Ma W, et~al (2026) Multi-objective mix optimization of geopolymer
+  recycled aggregate concrete using prior knowledge embedded neural network and
+  evolutionary algorithm. Engineering Applications of Artificial Intelligence
+  164:113254. \doi{10.1016/j.engappai.2025.113254}
+
+\bibitem[{Huang et~al.(2023)Huang, Huo, Ma, Zhang, Wang, and Zhang}]{huang2023}
+Huang Y, Huo Z, Ma G, et~al (2023) Multi-objective optimization of fly ash-slag
+  based geopolymer considering strength, cost and {CO2} emission: {A} new
+  framework based on tree-based ensemble models and {NSGA-II}. Journal of
+  Building Engineering 68:106070. \doi{10.1016/j.jobe.2023.106070}
+
+\bibitem[{{ISO}(2017)}]{iso21930}
+{ISO} (2017) {ISO} 21930:2017 sustainability in buildings and civil engineering
+  works -- core rules for environmental product declarations of construction
+  products and services. International Organization for Standardization, Geneva
+
+\bibitem[{Izadifar et~al.(2025)Izadifar, Ukrainczyk, Sch{\"o}nfeld, and
+  Koenders}]{izadifar2025}
+Izadifar M, Ukrainczyk N, Sch{\"o}nfeld K, et~al (2025) Activation energy of
+  aluminate dissolution in metakaolin: {MLFF-accelerated} {DFT} study of {vdW}
+  and hydration shell effects. Nanoscale Advances 7:4325--4335.
+  \doi{10.1039/d5na00103j}
+
+\bibitem[{Jagad and Thoriya(2026)}]{jagad2026}
+Jagad G, Thoriya A (2026) Reliability-aware compressive-strength prediction and
+  inverse mix design of fly {ash–GGBFS} geopolymer concrete via conformal
+  prediction. International Journal of Material Forming 19:88.
+  \doi{10.1007/s12289-026-02054-2}
+
+\bibitem[{Jiang et~al.(2026)Jiang, Ran, Xu, Huang, Meng, and Bao}]{jiang2026}
+Jiang Z, Ran Y, Xu Z, et~al (2026) Automated construction of knowledge graphs
+  for accelerated design and understanding of ultra-high-performance concrete.
+  Automation in Construction 181:106667. \doi{10.1016/j.autcon.2025.106667}
+
+\bibitem[{Jin et~al.(2024)Jin, Li, Zuo, and Li}]{jin2024}
+Jin P, Li L, Zuo Y, et~al (2024) Using acoustic emission to understand the
+  early-age reaction and cracking evolution of alkali-activated slag-brick
+  powder paste. Journal of Cleaner Production 478:143974.
+  \doi{10.1016/j.jclepro.2024.143974}
+
+\bibitem[{Kapoor et~al.(2024)Kapoor, Cantrell, Peng, Pham, Bail, Gundersen
+  et~al.}]{kapoor2024}
+Kapoor S, Cantrell E, Peng K, et~al (2024) {REFORMS}: Consensus-based
+  recommendations for machine-learning-based science. Science Advances
+  10:eadk3452. \doi{10.1126/sciadv.adk3452}
+
+\bibitem[{Kazemi et~al.(2025)Kazemi, Shafighfard, Jankowski, and
+  Yoo}]{kazemi2025}
+Kazemi F, Shafighfard T, Jankowski R, et~al (2025) Active learning on stacked
+  machine learning techniques for predicting compressive strength of
+  alkali-activated ultra-high-performance concrete. Archives of Civil and
+  Mechanical Engineering 25:24. \doi{10.1007/s43452-024-01067-5}
+
+\bibitem[{Ke and Duan(2021)}]{ke2021}
+Ke X, Duan Y (2021) Coupling machine learning with thermodynamic modelling to
+  develop a composition-property model for alkali-activated materials.
+  Composites Part B: Engineering 216:108801.
+  \doi{10.1016/j.compositesb.2021.108801}
+
+\bibitem[{Li et~al.(2026)Li, Hou, Feng, Zhao, Chow, and Lau}]{li2026mlp}
+Li Y, Hou JA, Feng Y, et~al (2026) Material characterization of aluminosilicate
+  hydrate geopolymers using deep learning assisted tailor-made potential.
+  Journal of Materials Chemistry A 14:25192--25212. \doi{10.1039/d6ta01407k}
+
+\bibitem[{Li et~al.(2022)Li, Yoon, Zhang, Rajabipour, Srubar~III, Dabo, and
+  Radli{\'n}ska}]{li2022}
+Li Z, Yoon J, Zhang R, et~al (2022) Machine learning in concrete science:
+  applications, challenges, and best practices. npj Computational Materials
+  8:127. \doi{10.1038/s41524-022-00810-x}
+
+\bibitem[{Liu et~al.(2025)Liu, Jiang, Xiao, Wan, and Zhang}]{liu2025}
+Liu C, Jiang Y, Xiao R, et~al (2025) Machine learning-based prediction of
+  carbonation depth in alkali-activated materials: {Integrating} physics
+  knowledge and data augmentation. Case Studies in Construction Materials
+  23:e05311. \doi{10.1016/j.cscm.2025.e05311}
+
+\bibitem[{Matsimbe et~al.(2024)Matsimbe, Dinka, Olukanni, and
+  Musonda}]{matsimbe2024}
+Matsimbe J, Dinka M, Olukanni D, et~al (2024) Fundamental machine learning
+  algorithms and statistical models applied in strength prediction of
+  geopolymers: a systematic review. Discover Applied Sciences 6:538.
+  \doi{10.1007/s42452-024-06244-y}
+
+\bibitem[{Moreno~Torres et~al.(2023)Moreno~Torres, V{\"o}lker, and
+  Firdous}]{morenotorres2023}
+Moreno~Torres B, V{\"o}lker C, Firdous R (2023) Concreting a sustainable
+  future: A dataset of alkali-activated concrete and its properties. Data in
+  Brief 50:109525. \doi{10.1016/j.dib.2023.109525}
+
+\bibitem[{Natarajan et~al.(2026)Natarajan, Sri~Preethaa, DanushKumar, Naqvi,
+  Shyamala~Devi, Lozano, Kim, and An}]{natarajan2026}
+Natarajan Y, Sri~Preethaa K, DanushKumar V, et~al (2026) Intelligent
+  cost-optimized mix design prediction and engineered strength system for
+  geopolymer concrete: {A} machine learning-based recommender system.
+  Developments in the Built Environment 26:100951.
+  \doi{10.1016/j.dibe.2026.100951}
+
+\bibitem[{Nguyen et~al.(2025)Nguyen, Pham, Ahn, Oo, and Lim}]{nguyen2025}
+Nguyen H, Pham D, Ahn Y, et~al (2025) Machine learning and sustainable
+  geopolymer materials: {A} systematic review. Materials Today Sustainability
+  30:101095. \doi{10.1016/j.mtsust.2025.101095}
+
+\bibitem[{Page et~al.(2021)Page, McKenzie, Bossuyt, Boutron, Hoffmann, Mulrow
+  et~al.}]{page2021}
+Page M, McKenzie J, Bossuyt P, et~al (2021) The {PRISMA} 2020 statement: an
+  updated guideline for reporting systematic reviews. BMJ 372:n71.
+  \doi{10.1136/bmj.n71}
+
+\bibitem[{Parakhiya et~al.(2026)Parakhiya, Jagad, and Thoriya}]{parakhiya2026}
+Parakhiya D, Jagad G, Thoriya A (2026) Uncertainty-aware prediction intervals
+  for compressive-strength estimation of geopolymer concrete. Next Materials
+  13:103027. \doi{10.1016/j.nxmate.2026.103027}
+
+\bibitem[{Pei et~al.(2026)Pei, Choo, Khaerudini, Bong, Ong, and
+  Sunarso}]{pei2026}
+Pei J, Choo C, Khaerudini D, et~al (2026) Evaluation of strength development of
+  one-part alkali-activated materials through machine learning and
+  thermodynamic modelling. Cement and Concrete Composites 165:106364.
+  \doi{10.1016/j.cemconcomp.2025.106364}
+
+\bibitem[{Qi et~al.(2022)Qi, Wu, Zheng, Chen, and Chai}]{qi2022}
+Qi C, Wu M, Zheng J, et~al (2022) Rapid identification of reactivity for the
+  efficient recycling of coal fly ash: {Hybrid} machine learning modeling and
+  interpretation. Journal of Cleaner Production 343:130958.
+  \doi{10.1016/j.jclepro.2022.130958}
+
+\bibitem[{Rathnayaka et~al.(2024)Rathnayaka, Karunasinghe, Gunasekara,
+  Wijesundara, Lokuge, and Law}]{rathnayaka2024}
+Rathnayaka M, Karunasinghe D, Gunasekara C, et~al (2024) Machine learning
+  approaches to predict compressive strength of fly ash-based geopolymer
+  concrete: {A} comprehensive review. Construction and Building Materials
+  419:135519. \doi{10.1016/j.conbuildmat.2024.135519}
+
+\bibitem[{Shobeiri et~al.(2022)Shobeiri, Bennett, Xie, and
+  Visintin}]{shobeiri2022}
+Shobeiri V, Bennett B, Xie T, et~al (2022) A generic framework for augmented
+  concrete mix design: {Optimisation} of geopolymer concrete considering
+  environmental, financial and mechanical properties. Journal of Cleaner
+  Production 369:133382. \doi{10.1016/j.jclepro.2022.133382}
+
+\bibitem[{Song et~al.(2025)Song, Wu, Zhang, Jia, Guo, Yan, and Zhao}]{song2025}
+Song Y, Wu H, Zhang J, et~al (2025) A data-driven framework for reactivity
+  assessment and mechanical performance prediction of solid wastes via {PCA}
+  and {RSM}. Construction and Building Materials 502:144497.
+  \doi{10.1016/j.conbuildmat.2025.144497}
+
+\bibitem[{Su et~al.(2026)Su, Lin, Chen, Chen, Hu, and Ye}]{su2026}
+Su R, Lin M, Chen G, et~al (2026) Interpretable {AI-driven} framework for
+  sustainable modification of dredged sludge: {A} knowledge-guided approach to
+  industrial waste-geopolymer binders design for in situ and ex situ
+  applications. Advanced Engineering Informatics 69:103982.
+  \doi{10.1016/j.aei.2025.103982}
+
+\bibitem[{Tom et~al.(2024)Tom, Schmid, Baird, Cao, Darvish, Hao
+  et~al.}]{tom2024}
+Tom G, Schmid S, Baird S, et~al (2024) {Self-Driving} {Laboratories} for
+  {Chemistry} and {Materials} {Science}. Chemical Reviews 124:9633--9732.
+  \doi{10.1021/acs.chemrev.4c00055}
+
+\bibitem[{Völker et~al.(2021)Völker, Firdous, Stephan, and
+  Kruschwitz}]{volker2021}
+Völker C, Firdous R, Stephan D, et~al (2021) Sequential learning to accelerate
+  discovery of alkali-activated binders. Journal of Materials Science
+  56:15859--15881. \doi{10.1007/s10853-021-06324-z}
+
+\bibitem[{Völker et~al.(2023)Völker, Moreno~Torres, Rug, Firdous, Jan~Zia,
+  Lüders, Scaffino, Höpler, Böhmer, Pfaff, Stephan, and
+  Kruschwitz}]{volker2023}
+Völker C, Moreno~Torres B, Rug T, et~al (2023) Data driven design of
+  alkali-activated concrete using sequential learning. Journal of Cleaner
+  Production 418:138221. \doi{10.1016/j.jclepro.2023.138221}
+
+\bibitem[{Wan and Zheng(2025)}]{wan2025}
+Wan Y, Zheng W (2025) Physics-informed neural network approach for identifying
+  free chloride diffusion coefficient in alkali-activated mortars. Journal of
+  Building Engineering 112:113820. \doi{10.1016/j.jobe.2025.113820}
+
+\bibitem[{Zhang et~al.(2026)Zhang, Liu, and Jia}]{zhang2026}
+Zhang Y, Liu J, Jia F (2026) Reliable extrapolation in geopolymer concrete
+  strength prediction using episodic-enhanced tabular foundation models.
+  Construction and Building Materials 533:146774.
+  \doi{10.1016/j.conbuildmat.2026.146774}
+
+\bibitem[{Zheng et~al.(2025)Zheng, Liu, Huang, Liu, Jin, Zhang, Liu, and
+  Tang}]{zheng2025}
+Zheng S, Liu Z, Huang J, et~al (2025) A review of machine learning methods for
+  geopolymer performance prediction: {Linking} data-driven models with physical
+  insights. Journal of Building Engineering 114:114227.
+  \doi{10.1016/j.jobe.2025.114227}
+
+\end{thebibliography}

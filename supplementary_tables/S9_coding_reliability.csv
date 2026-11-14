@@ -1,0 +1,11 @@
+Axis / flag,Keyword ↔ Human (n = 67)
+"Task, full label",74.6% / 0.25
+Task family (prediction-or-optimization vs other),97.0% / —
+Physics type (I / II / III and above),79.1% / 0.44
+Environmental: none vs any,68.7% / 0.36
+Explainability flag,85.1% / 0.70
+Uncertainty flag,98.5% / 0.79
+Calibration flag,100% / 1.00
+External-validation flag,92.5% / 0.25
+Out-of-distribution flag,100% / 1.00
+Repository flag,100% / —

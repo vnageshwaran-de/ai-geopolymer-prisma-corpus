@@ -1,0 +1,33 @@
+DOI,Flag,Audit outcome,Note
+10.1007/s43939-026-00821-1,"III, claimed",Downgraded to Type II,"oxide ratios as input features only; ""chemistry-informed"" = feature choice"
+10.1016/j.cemconcomp.2024.105723,"III, claimed","Verified, Type III",knowledge graph structurally guides ML + MOO (strength/cost/carbon); genuine knowledge-guided design
+10.1016/j.wasman.2025.115139,"V, candidate",Downgraded to Type I/II,"ML and DFT used side by side; DFT interprets, does not constrain the model"
+10.1016/j.conbuildmat.2026.146774,"IV, claimed",Downgraded to Type I/II,no physics; GP-guided boundary augmentation; has a dedicated out-of-range test (18% out-of-range test)
+10.1007/s42107-026-01647-1,"V, candidate",Downgraded to Type I,mechanisms motivational only; plain 4-model comparison
+10.1016/j.jobe.2024.110295,"V, candidate",Downgraded to Type II,mechanism from experiments/characterization; ML is feature analysis
+10.1016/j.cemconcomp.2025.106364,"III, claimed","Verified, Type V",CIML: ML integrated with thermodynamic modelling for one-part AAM
+10.1007/s40996-026-02191-3,"IV, claimed",Not verifiable,physics entry point unclear from abstract
+10.1016/j.jclepro.2024.143974,"V, candidate",Downgraded to Type II,ML clusters AE signals; physics via measurement not model
+10.1016/j.jobe.2025.113820,"IV, claimed","Verified, Type IV",PINN solves inverse diffusion problem (PDE-constrained) for chloride Dc
+10.1016/j.autcon.2025.106667,"III, claimed","Verified, Type III",LLM-automated knowledge-graph construction (52h to 1h) applied to UHPG design; only language-model use found in the corpus
+10.1007/s10973-026-15494-4,"V, candidate",Downgraded to Type I/II,thermal experiments + predictive ML; no mechanistic coupling
+10.1038/s41598-025-27229-w,"IV, claimed",Not verifiable,TPINN+ST-GNN multi-degradation; many method terms listed; constraints unspecified
+10.11591/ijict.v14i3.pp822-829,"IV, claimed",Not verifiable,abstract gives no method detail
+10.1016/j.engappai.2025.113254,"III, claimed","Verified, Type IV",KENN: governing equations embedded in NN + NSGA-II over strength/cost/CO2/energy
+10.1016/j.cscm.2025.e05407,"V, candidate",Downgraded to Type II,multi-output RF; notable: embodied carbon as predicted output (885 mixes)
+10.1016/j.aei.2025.103982,"III, claimed","Verified, Type III",knowledge graph guides variable selection + interpretation (PMV-IEL)
+10.12989/scs.2025.56.6.499,"V, candidate",Downgraded to Type II,GMM phase clustering of nanoindentation data
+10.1016/j.conbuildmat.2021.126103,"III, claimed",Downgraded to Type II/III,chemistry-based feature engineering (the 2022 paper that popularized the label)
+10.1016/j.compositesb.2021.108801,"V, candidate","Verified, Type V",ML + global sensitivity + GEMS thermodynamics (2021 - earliest Type V)
+10.1016/j.conbuildmat.2022.127557,"V, candidate","Verified, Type IV/V","RF with topological-network + thermodynamic constraints, 26 precursors"
+10.1016/j.conbuildmat.2023.131519,"V, candidate",Downgraded to Type I/II,plain RF; mechanisms motivational
+10.1016/j.cscm.2025.e05311,"IV, claimed","Verified, Type IV",symbolic physics formula embedded in ANN + dropout UQ; verified at abstract level
+10.1016/j.dibe.2026.100951,"III, claimed",Downgraded to Type II,"""domain-informed features"" = binder-chemistry inputs only"
+10.1007/s43452-025-01190-x,"IV, claimed",Downgraded to Type I,VAE/GAN augmentation + MLP; no physics constraint anywhere in pipeline
+10.1016/j.dibe.2026.100971,"III, claimed",Downgraded to Type II,"""domain-informed"" AGP = feature priors + early-age posterior updating; no structural knowledge"
+10.1016/j.dibe.2025.100736,"III, claimed",Downgraded to Type II,"""chemistry-informed"" CNN = oxide-composition input features"
+10.1039/d6ta01407k,"V, candidate","Verified, Type V","machine-learned interatomic potential trained on DFT data and used in atomistic simulation of N-A-S-H and K-A-S-H gels; atomic scale; audit extension after keyword coding, graded from abstract"
+10.1039/d5na00103j,"V, candidate","Verified, Type V","ML force field based on DFT used to compute dissolution activation energies feeding kinetic Monte Carlo; atomic scale; audit extension after keyword coding, graded from abstract"
+10.3390/ma19122474,"V, candidate",Downgraded to Type I,"stacking ensemble; authors state the model is a statistical surrogate, not a mechanistic simulator; flagged by vocabulary only; audit extension after keyword coding, graded from abstract"
+10.1016/j.pnsc.2026.06.002,"V, candidate",Downgraded to Type I/II,"ML and DFT used side by side; DFT explains adsorption, does not constrain the model; audit extension after keyword coding, graded from abstract"
+10.1016/j.conbuildmat.2026.147669,"V, candidate",Downgraded to Type II,"experiments plus SHAP-explained ML with silicate modulus and ratios as inputs; ""mechanistic"" refers to interpretation; audit extension after keyword coding, graded from abstract"
